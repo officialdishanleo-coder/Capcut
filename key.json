@@ -5,7 +5,7 @@
     "getKeyUrl": "https://t.me/Dishanv",
     "imageUrl": "https://avatars.githubusercontent.com/u/325320404?s=400&u=4f58f9cb5c000c27a02ff1b944ffb286ffab9bfa&v=4",
     "loginBtnText": "AUTHENTICATE",
-    "maintenanceMode": true,
+    "maintenanceMode": false,
     "maintenanceMsg": "Dishan server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
     "tags": [
@@ -15,7 +15,7 @@
     ],
     "title": "Dishan Mod",
     "updateMsg": "New Dishan version available! Please update.",
-    "updateRequired": false,
+    "updateRequired": true,
     "updateUrl": "https://t.me/Dishanv"
   },
   "BannedHWIDs": {
