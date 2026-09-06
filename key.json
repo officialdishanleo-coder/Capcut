@@ -54,6 +54,13 @@
       "isBanned": false,
       "banReason": "EE5FCC5D975964E3",
       "userRank": "Supreme User"
+    },
+    "Zen12345": {
+      "hwid": "0A7E85F07C581448",
+      "expireDate": "2026-09-07",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
