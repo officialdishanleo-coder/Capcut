@@ -40,6 +40,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "Fachir1234": {
+      "hwid": "35CBD72EDC075EBE",
+      "expireDate": "2026-09-09",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Fachir"
     }
   }
 }
