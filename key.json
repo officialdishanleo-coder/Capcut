@@ -68,6 +68,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "NS12345": {
+      "hwid": "D9C088BD2FF12FB0",
+      "expireDate": "2026-09-10",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
